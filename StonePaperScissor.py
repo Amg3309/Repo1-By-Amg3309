@@ -1,4 +1,5 @@
 # Stone Paper Scissors By Amogh-Nayak
+# Hope you enjoy your game
 import random
 
 ComOptions = ['St', 'P', 'Sc']
