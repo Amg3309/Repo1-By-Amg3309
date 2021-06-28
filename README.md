@@ -1,4 +1,4 @@
-# Repo1-By-Amogh
+# Repo1-By-Amg_3309
 --------------------------------------------
 This is my test repository to understand git.
 ---------------------------------------------
