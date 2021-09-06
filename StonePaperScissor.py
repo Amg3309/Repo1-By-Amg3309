@@ -1,4 +1,4 @@
-# Stone Paper Scissors By Amogh-Nayak
+# Stone Paper Scissors
 # Hope you enjoy your game
 import random
 
